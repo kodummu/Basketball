@@ -4,5 +4,5 @@ Right arrow allows you to move to the right direction.
 Left arrow allows you to move to the left direction.
 Space throws the ball.
 0 resets the game.
-You have 60 second to collect the points.
+You have 60 seconds to collect the points.
 If you touch Jamal, you will lose point.
